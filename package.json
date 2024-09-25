@@ -1,0 +1,17 @@
+{
+  "name": "week-23-webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build ": "npx tsc -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.10",
+    "ts": "^0.2.2",
+    "ws": "^8.17.0"
+  }
+}
